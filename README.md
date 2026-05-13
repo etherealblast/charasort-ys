@@ -1,4 +1,4 @@
-# charasort-bluearchive
+# charasort-ys
 A web based character sorter for Ys based on [charasort](https://github.com/execfera/charasort) by execfera and a fork of the Blue Archive [charasort](https://github.com/simpelplant/charasort-bluearchive).
 
 (link goes here... soon)
@@ -32,6 +32,10 @@ This is a list of things you need to change for your sorter, for each file.
  * `src/js/data.js`
 
     Change `imageRoot` if you are not uploading your images to imgur.
+
+ * `chara`
+
+    Add the character image files for whatever series you want to make a sorter of.
 
  * `src/js/data/YYYY-MM-DD.js`
 
@@ -162,6 +166,7 @@ The script will automatically get the latest version, but will retain the previo
  * [lz-string](https://github.com/pieroxy/lz-string) for shareable link compression.
  * [SpinKit](http://tobiasahlin.com/spinkit/) for loading animation.
  * [thsort](http://mainyan.sakura.ne.jp/thsort.html) for the original inspiration.
+ * [charasort-bluearchive](https://github.com/simpelplant/charasort-bluearchive) as this is a fork of that repo.
 
 ## Known Issues
 
