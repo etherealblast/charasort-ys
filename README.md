@@ -1,7 +1,7 @@
 # charasort-bluearchive
-A web based character sorter for Blue Archive Based on [charasort](https://github.com/execfera/charasort) by execfera. This project is the continuation of its [own fork](https://github.com/YudhaDev/charasort-bluearchive) because the maintainer told me to do so.
+A web based character sorter for Ys based on [charasort](https://github.com/execfera/charasort) by execfera and a fork of the Blue Archive [charasort](https://github.com/simpelplant/charasort-bluearchive).
 
-https://ba-sort.netlify.app/
+(link goes here... soon)
 
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite
@@ -13,7 +13,7 @@ characters from a set.
  * Shareable links of sorter results.
  * Versioning of sorter data - you may want to add characters and resources over time. Versioning keeps shareable links valid even if the base character data is changed.
  
-The version in this repo is built for characters from the [Blue Archive](https://en.wikipedia.org/wiki/Touhou_Project](https://en.wikipedia.org/wiki/Blue_Archive))
+The version in this repo is built for characters from the [Ys](https://en.wikipedia.org/wiki/Ys_(series))
 game series, but the sorter can be easily edited to create any custom sorter desired.
 
 ## Related Sorters
@@ -63,12 +63,11 @@ This is a list of things you need to change for your sorter, for each file.
 
     ```
     {
-      name: "Flandre Scarlet",
-      img: "OhaDcnc.png",
+      name: "Griselda",
+      img: "griselda.png",
       opts: {
-        series: ["book", "EoSD", "StB"],
-        stage: ["ex"],
-        loli: true
+        series: ["game", "MoC" "VIII"],
+        npc: true
       }
     }
     ```
@@ -95,14 +94,14 @@ This is a list of things you need to change for your sorter, for each file.
 
     ```
     {
-      name: 'Filter Lolis',
-      key: 'loli',
-      tooltip: 'Check this if you want to remove lolis from being listed.'
+      name: 'Filter NPC',
+      key: 'npc',
+      tooltip: 'Check this if you want to remove non-playable characters from being listed.'
       checked: true,
     }
     ```
 
-    In this example, checking this option would remove the example 'Flandre Scarlet' above from the list of sorted characters, since she has `loli` set to `true`. The `checked` option is true, so in this sorter, it would be enabled by default.
+    In this example, checking this option would remove the example 'Griselda' above from the list of sorted characters, since she has `npc` set to `true`. The `checked` option is true, so in this sorter, it would be enabled by default.
 
     The second form is a **Nested Inclusion Filter**. The Nested Inclusion Filter has a few sub-options under it. When selected, any options under it that are *not* selected will be excluded from the sort. Its layout is similar to the Basic Filter, except with an extra `sub` part, which lists the sub-options.
 
@@ -141,14 +140,14 @@ This is a list of things you need to change for your sorter, for each file.
       tooltip: 'Check this if you want to filter out certain series.'
       checked: true,
       sub: [
-        { name: 'Books & CDs', key: 'book' },
-        { name: 'Embodiment of Scarlet Devil', key: 'EoSD' },
-        { name: 'Perfect Cherry Blossom', key: 'PCB' },
+        { name: 'Games', key: 'game' },
+        { name: 'Memories of Celceta', key: 'MoC' },
+        { name: 'Monstrum Nox', key: 'IX' },
       ]
     }
     ```
 
-    In this case, this would create a "Filter by Series Appearance" option, with the three listed sub-options. "Flandre Scarlet" above has both `book` and `EoSD` under `series`, so unless you uncheck both "Books & CDs" and "Embodiment of Scarlet Devil", she would still appear in the sort.
+    In this case, this would create a "Filter by Series Appearance" option, with the three listed sub-options. "Griselda" above has both `game` and `MoC` under `series`, so unless you uncheck both "Games" and "Memories of Celceta", she would still appear in the sort.
 
 ## Updating Your Own Sorter
 
