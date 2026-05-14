@@ -34,6 +34,12 @@ dataSet[dataSetVersion].options = [
     key: "noncanon",
     tooltip: "Check this to disable characters from entries that are not from the current canon timeline.",
     checked: false
+  },
+  {
+    name: "Disable Non-Griselda Characters",
+    key: "notgriselda",
+    tooltip: "Check this to disable characters that are not Griselda.",
+    checked: false
   }
 ];
 
@@ -695,6 +701,42 @@ dataSet[dataSetVersion].characterData = [
       game: ["III"],
       NPC: true
     }
-  }
+  },
+  // Ys: Memories of Celceta
+  {
+    name: "Duren",
+    img: "duren.jpg",
+    opts: {
+      game: ["IV"]
+    }
+  },
+  {
+    name: "Karna",
+    img: "karna.jpg",
+    opts: {
+      game: ["IV"]
+    }
+  },
+  {
+    name: "Ozma",
+    img: "ozma.jpg",
+    opts: {
+      game: ["IV"]
+    }
+  },
+  {
+    name: "Calilica",
+    img: "calilica.jpg",
+    opts: {
+      game: ["IV"]
+    }
+  },
+  {
+    name: "Frieda",
+    img: "frieda.jpg",
+    opts: {
+      game: ["IV"]
+    }
+  },
 ];
 	

@@ -59,6 +59,7 @@ function init() {
   /** Define button behavior. */
   document.querySelector('.starting.start.button').addEventListener('click', start);
   document.querySelector('.starting.load.button').addEventListener('click', loadProgress);
+  document.querySelector('.starting.griselda.button').addEventListener('click', griseldaMode);
 
   document.querySelector('.left.sort.image').addEventListener('click', () => pick('left'));
   document.querySelector('.right.sort.image').addEventListener('click', () => pick('right'));
@@ -572,6 +573,18 @@ function loadProgress() {
   const saveData = localStorage.getItem(`${sorterURL}_saveData`);
 
   if (saveData) decodeQuery(saveData);
+}
+
+/**
+ * Activate Griselda mode, which turns all characters into Griselda.
+ */
+function griseldaMode() {
+  for (let character of characterData) {
+    character.name = 'Griselda';
+    character.img = 'griselda.jpg';
+  }
+
+  start();
 }
 
 /** 
