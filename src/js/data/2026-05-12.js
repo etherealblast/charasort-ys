@@ -447,5 +447,254 @@ dataSet[dataSetVersion].characterData = [
       NPC: true
     }
   },
+  // Ys: Oath in Felghana
+  {
+    name: "Elena Stoddart",
+    img: "elena.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mayor Edgar",
+    img: "edgar.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sister Nell",
+    img: "nell.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Father Jean Pierre",
+    img: "jeanpierre.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gardner",
+    img: "gardner.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Margo",
+    img: "margo.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Joel",
+    img: "joel.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Adonis",
+    img: "adonis.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Cynthia",
+    img: "cynthia.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Randolph",
+    img: "randolph.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Antonio",
+    img: "antonio.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Aida",
+    img: "aida.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Anya",
+    img: "anya.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lochus",
+    img: "lochus.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Harold",
+    img: "harold.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Fiona (Felghana)",
+    img: "fionaiii.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Hugo (Felghana)",
+    img: "hugoiii.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Dewey",
+    img: "dewey.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ricardo",
+    img: "ricardo.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Paul",
+    img: "paul.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Chester Stoddart",
+    img: "chester.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Count McGuire",
+    img: "countmcguire.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Elizabetha",
+    img: "elizabetha.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Alice",
+    img: "alice.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Christof",
+    img: "christof.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Andre",
+    img: "andre.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Fran",
+    img: "fran.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Bob",
+    img: "bob.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Berhardt",
+    img: "berhardt.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Bishop Nikolas Garland",
+    img: "bishopnikolas.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  },
+  {
+    name: "Galbalan",
+    img: "galbalan.jpg",
+    opts: {
+      game: ["III"],
+      NPC: true
+    }
+  }
 ];
 	
