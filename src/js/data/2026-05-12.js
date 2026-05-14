@@ -738,5 +738,150 @@ dataSet[dataSetVersion].characterData = [
       game: ["IV"]
     }
   },
+  {
+    name: "Leeza",
+    img: "leeza.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Eldeel",
+    img: "eldeel.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lefance",
+    img: "lefance.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Remnos",
+    img: "remnos.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Griselda",
+    img: "griselda.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Leo",
+    img: "leo.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sancho",
+    img: "sancho.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Panza",
+    img: "panza.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Asad",
+    img: "asad.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mayor Aaron",
+    img: "mayoraaron.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Vanjo",
+    img: "vanjo.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Nina",
+    img: "nina.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sol-Galba",
+    img: "solgalba.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gazock",
+    img: "gazock.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gadis",
+    img: "gadis.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Bami",
+    img: "bami.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gruda",
+    img: "gruda.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
+  // Ys V: Lost Kefin, Kingdom of Sand
+  {
+    name: "Gruda",
+    img: "gruda.jpg",
+    opts: {
+      game: ["IV"],
+      NPC: true
+    }
+  },
 ];
 	
