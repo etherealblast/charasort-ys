@@ -1601,8 +1601,178 @@ dataSet[dataSetVersion].characterData = [
       game: ["VI"],
       NPC: true
     }
-  }
+  },
   // Ys Seven
-
+  {
+    name: "Five Dragons of Altago",
+    img: "dragons.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mia",
+    img: "mia.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Scias",
+    img: "scias.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Scias",
+    img: "scias.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Tia",
+    img: "tia.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rul-Ende",
+    img: "rulende.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Maya",
+    img: "maya.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Kiemarl Sari Edonas",
+    img: "kiemarl.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Raud",
+    img: "raud.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Fatima",
+    img: "fatima.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ciarius",
+    img: "ciarius.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Dreisen",
+    img: "dreisen.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Orbus",
+    img: "orbus.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Doctor Daleyon",
+    img: "doctordaleyon.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Zanzibar",
+    img: "zanzibar.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ursa",
+    img: "ursa.jpg",
+    opts: {
+      game: ["VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Aisha Sari Edonas",
+    img: "aishavii.jpg",
+    opts: {
+      game: ["VII"]
+    }
+  },
+  {
+    name: "Elk",
+    img: "elk.jpg",
+    opts: {
+      game: ["VII"]
+    }
+  },
+  {
+    name: "Cruxie",
+    img: "cruxie.jpg",
+    opts: {
+      game: ["VII"]
+    }
+  },
+  {
+    name: "Mishera",
+    img: "mishera.jpg",
+    opts: {
+      game: ["VII"]
+    }
+  },
+  {
+    name: "Mustafa",
+    img: "mustafa.jpg",
+    opts: {
+      game: ["VII"]
+    }
+  },
+  {
+    name: "Sigroon",
+    img: "sigroon.jpg",
+    opts: {
+      game: ["VII"]
+    }
+  },
 ];
 	
