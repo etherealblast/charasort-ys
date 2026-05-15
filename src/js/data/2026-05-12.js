@@ -34,12 +34,6 @@ dataSet[dataSetVersion].options = [
     key: "noncanon",
     tooltip: "Check this to disable characters from entries that are not from the current canon timeline.",
     checked: false
-  },
-  {
-    name: "Disable Non-Griselda Characters",
-    key: "notgriselda",
-    tooltip: "Check this to disable characters that are not Griselda.",
-    checked: false
   }
 ];
 
