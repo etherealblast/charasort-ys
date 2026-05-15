@@ -876,12 +876,215 @@ dataSet[dataSetVersion].characterData = [
   },
   // Ys V: Lost Kefin, Kingdom of Sand
   {
-    name: "Gruda",
-    img: "gruda.jpg",
+    name: "Dios (Ys V)",
+    img: "diosv.jpg",
     opts: {
-      game: ["IV"],
+      game: ["V"],
       NPC: true
     }
   },
+  {
+    name: "Nottis",
+    img: "nottis.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Stoker",
+    img: "stoker.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Foresta",
+    img: "foresta.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Orwell",
+    img: "orwell.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Willy",
+    img: "willy.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Effey",
+    img: "effey.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Neida",
+    img: "neida.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Saravat",
+    img: "saravat.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lopora",
+    img: "lopora.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Garam",
+    img: "garam.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mujaba",
+    img: "mujaba.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "King Kefin",
+    img: "kefin.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Duke Gateau",
+    img: "dukegateau.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Aisha",
+    img: "aisha.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Dorman",
+    img: "dorman.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Baruq",
+    img: "baruq.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Avis",
+    img: "avis.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Karion",
+    img: "karion.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rizze",
+    img: "rizze.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Jabir",
+    img: "jabir.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Niena",
+    img: "niena.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Stein",
+    img: "stein.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Massea",
+    img: "massea.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Alga",
+    img: "alga.jpg",
+    opts: {
+      game: ["V"],
+      NPC: true
+    }
+  },
+  {
+    name: "Terra",
+    img: "terra.jpg",
+    opts: {
+      game: ["V", "VI"],
+      NPC: true
+    }
+  },
+  // Ys VI: The Ark of Napishtim
 ];
 	
