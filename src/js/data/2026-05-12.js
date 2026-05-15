@@ -230,8 +230,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Dogi",
     img: "dogi.jpg",
     opts: {
-      game: ["I", "II", "III", "IV", "V", "VI", "VIOnline", "VII", "VIII", "IX", "X"],
-      NPC: true
+      game: ["I", "II", "III", "IV", "V", "VI", "VIOnline", "VII", "VIII", "IX", "X"]
     }
   },
   {
@@ -1086,5 +1085,530 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   // Ys VI: The Ark of Napishtim
+  {
+    name: "Ryug",
+    img: "ryug.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Marve",
+    img: "marve.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Nahrya",
+    img: "nahrya.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Seblo",
+    img: "seblo.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Kevin",
+    img: "kevin.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Baslam",
+    img: "baslam.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lloyd",
+    img: "lloyd.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Xaxon",
+    img: "xaxon.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ur",
+    img: "ur.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Leav",
+    img: "leav.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Maple",
+    img: "maple.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rose",
+    img: "rose.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Emilio",
+    img: "emilio.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Croix",
+    img: "croix.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Isaac",
+    img: "isaac.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Tise",
+    img: "tise.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Carmine",
+    img: "carmine.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Auguste",
+    img: "auguste.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gazel",
+    img: "gazel.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sophia",
+    img: "sophia.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Shea",
+    img: "shea.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sa'ud",
+    img: "saud.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Anice",
+    img: "anice.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ladoc",
+    img: "ladoc.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Jed",
+    img: "jed.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Camara",
+    img: "camara.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mikhail",
+    img: "mikhail.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Nguyen",
+    img: "nguyen.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Nice",
+    img: "nice.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Alma",
+    img: "alma.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Geis",
+    img: "geis.jpg",
+    opts: {
+      game: ["VI", "VIOnline", "VII"]
+    }
+  },
+  {
+    name: "Jue Brillante",
+    img: "jue.jpg",
+    opts: {
+      game: ["VI", "VIOnline", "VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sera",
+    img: "sera.jpg",
+    opts: {
+      game: ["VI", "VIOnline", "VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Xisa",
+    img: "xisa.jpg",
+    opts: {
+      game: ["VI", "VIOnline", "VII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Admiral Agares",
+    img: "agares.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ernst",
+    img: "ernst.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ark of Napishtim",
+    img: "arkofnapishtim.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Crevia",
+    img: "crevia.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Kiiro",
+    img: "kiiro.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Adventurer",
+    img: "adventurer.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Angela",
+    img: "angela.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Faust",
+    img: "faust.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Branch",
+    img: "branch.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Rola",
+    img: "rola.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lydia",
+    img: "lydia.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Duff",
+    img: "duff.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Sybil",
+    img: "sybil.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Fiona",
+    img: "fiona.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Craig",
+    img: "craig.jpg",
+    opts: {
+      game: ["VIOnline"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lolo",
+    img: "lolo.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mannan",
+    img: "mannan.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Attli",
+    img: "attli.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Olha",
+    img: "olha.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Isha",
+    img: "isha.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ord",
+    img: "ord.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Largo",
+    img: "largo.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Milca",
+    img: "milca.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rakche",
+    img: "rakche.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Toksa",
+    img: "toksa.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sola",
+    img: "sola.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Silva",
+    img: "silva.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Qval",
+    img: "qval.jpg",
+    opts: {
+      game: ["VI", "VIOnline"],
+      NPC: true
+    }
+  },
+  {
+    name: "Wenuca",
+    img: "wenuca.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  },
+  {
+    name: "Noi",
+    img: "noi.jpg",
+    opts: {
+      game: ["VI"],
+      NPC: true
+    }
+  }
+  // Ys Seven
+
 ];
 	
