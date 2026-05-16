@@ -2519,14 +2519,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lux",
-    img: "lux.jpg",
-    opts: {
-      game: ["X"],
-      NPC: true
-    }
-  },
-  {
     name: "Sache",
     img: "sache.jpg",
     opts: {
