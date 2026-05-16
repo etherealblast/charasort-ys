@@ -1629,14 +1629,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Scias",
-    img: "scias.jpg",
-    opts: {
-      game: ["VII"],
-      NPC: true
-    }
-  },
-  {
     name: "Tia",
     img: "tia.jpg",
     opts: {
