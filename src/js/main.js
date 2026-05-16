@@ -265,13 +265,12 @@ function start() {
   document.querySelector('.progress').style.display = 'block';
   loading = true;
 
-  preloadImages().then(() => {
-    loading = false;
-    document.querySelector('.loading.button').style.display = 'none';
-    document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
-    document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');
-    display();
-  });
+  preloadImages();
+  loading = false;
+  document.querySelector('.loading.button').style.display = 'none';
+  document.querySelectorAll('.sorting.button').forEach(el => el.style.display = 'block');
+  document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');
+  display();
 }
 
 /** Displays the current state of the sorter. */
@@ -776,25 +775,9 @@ function decodeQuery(queryString = window.location.search.slice(1)) {
  * Preloads images in the filtered character data and converts to base64 representation.
 */
 function preloadImages() {
-  const totalLength = characterDataToSort.length;
-  let imagesLoaded = 0;
-
-  const loadImage = async (src) => {
-    const blob = await fetch(src).then(res => res.blob());
-    return new Promise((res, rej) => {
-      const reader = new FileReader();
-      reader.onload = ev => {
-        progressBar(`Loading Image ${++imagesLoaded}`, Math.floor(imagesLoaded * 100 / totalLength));
-        res(ev.target.result);
-      };
-      reader.onerror = rej;
-      reader.readAsDataURL(blob);
-    });
-  };
-
-  return Promise.all(characterDataToSort.map(async (char, idx) => {
-    characterDataToSort[idx].img = await loadImage(imageRoot + char.img);
-  }));
+  return characterDataToSort.map((char, idx) => {
+    characterDataToSort[idx].img = imageRoot + characterDataToSort[idx].img;
+  });
 }
 
 /**
