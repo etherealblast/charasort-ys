@@ -966,7 +966,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "King Kefin",
-    img: "kefin.jpg",
+    img: "kingkefin.jpg",
     opts: {
       game: ["V"],
       NPC: true
@@ -2389,7 +2389,310 @@ dataSet[dataSetVersion].characterData = [
       game: ["IX"],
       NPC: true
     }
-  }
+  },
   // Ys X: Nordics
+  {
+    name: "Karja Balta",
+    img: "karja.jpg",
+    opts: {
+      game: ["X"]
+    }
+  },
+  {
+    name: "Grenn Berge",
+    img: "grenn.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+{
+    name: "Rosalind Rusveri",
+    img: "rosalind.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Cruz Carpent",
+    img: "cruz.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mirabel Asrad",
+    img: "mirabel.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rafe Evelies",
+    img: "rafe.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ezer",
+    img: "ezer.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Hugill",
+    img: "hugill.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lila Mistral",
+    img: "lila.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Clement Berge",
+    img: "clement.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gulliver Isou",
+    img: "gulliver.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rene Rusveri",
+    img: "rene.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Corinne Rusveri",
+    img: "corinne.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Romes Carpent",
+    img: "romes.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Joel Asrad",
+    img: "joelx.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Momina Evelies",
+    img: "momina.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Dawson Evelies",
+    img: "dawson.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lux",
+    img: "lux.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lux",
+    img: "lux.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sache",
+    img: "sache.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ashley",
+    img: "ashley.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Father Cuthbert",
+    img: "cuthbert.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Cohen",
+    img: "cohen.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Milette",
+    img: "milette.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Mandy",
+    img: "mandy.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Guila",
+    img: "guila.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Grimson Balta",
+    img: "grimson.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gunnar Krogh",
+    img: "gunnar.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Phylleia",
+    img: "phylleia.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Einar",
+    img: "einar.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rollo Norgungand",
+    img: "rollo.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ulvar",
+    img: "ulvar.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Canute Gamley",
+    img: "canute.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Astrid ZayrenUlvar",
+    img: "astrid.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Jörð Dorsen",
+    img: "jord.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lǫgr Valkios",
+    img: "logr.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Óðr Colborn",
+    img: "odr.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
+  {
+    name: "Yule the Snowfrost Witch",
+    img: "yule.jpg",
+    opts: {
+      game: ["X"],
+      NPC: true
+    }
+  },
 ];
 	
