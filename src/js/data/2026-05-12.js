@@ -2092,11 +2092,304 @@ dataSet[dataSetVersion].characterData = [
   },
   // Ys IX: Monstrum Nox
   {
-    name: "Origin of Life",
-    img: "originoflife.jpg",
+    name: "Krysha Pendleton",
+    img: "krysha.jpg",
     opts: {
       game: ["IX"]
     }
   },
+  {
+    name: "Anemona",
+    img: "anemona.jpg",
+    opts: {
+      game: ["IX"]
+    }
+  },
+  {
+    name: "Credo Aiblinger",
+    img: "credo.jpg",
+    opts: {
+      game: ["IX"]
+    }
+  },
+  {
+    name: "Yufa Gamberg",
+    img: "yufa.jpg",
+    opts: {
+      game: ["IX"]
+    }
+  },
+  {
+    name: "Jules Noah",
+    img: "jules.jpg",
+    opts: {
+      game: ["IX"]
+    }
+  },
+  {
+    name: "Aprilis",
+    img: "aprilis.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Parks",
+    img: "parks.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Chante",
+    img: "chante.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Tito",
+    img: "tito.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Arche",
+    img: "arche.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Silhouette",
+    img: "silhouette.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Iris",
+    img: "iris.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Lucien",
+    img: "lucien.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Saradhi",
+    img: "saradhi.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Margot Reyes",
+    img: "margot.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Maxim",
+    img: "maxim.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Xavier",
+    img: "xavier.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Morbihan",
+    img: "morbihan.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Carla Pendleton",
+    img: "carla.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Belger",
+    img: "belger.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Belger",
+    img: "belger.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ingrid Celda",
+    img: "ingrid.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Marius",
+    img: "marius.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Riche Pendleton",
+    img: "riche.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Roderio Rijndael",
+    img: "roderio.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Marc",
+    img: "marc.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Eudes",
+    img: "eudes.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Elle",
+    img: "elle.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Felix",
+    img: "felix.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Smirnov Noah",
+    img: "smirnov.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Pamella Noah",
+    img: "pamella.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Vallin",
+    img: "vallin.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Gordo",
+    img: "gordo.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Pak",
+    img: "pak.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Toto",
+    img: "toto.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Chatelard",
+    img: "chatelard.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Zola Guesclin",
+    img: "zola.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
+    name: "Atra Nox Philius",
+    img: "atra.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  }
+  // Ys X: Nordics
 ];
 	
