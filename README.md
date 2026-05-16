@@ -1,7 +1,7 @@
 # charasort-ys
 A web based character sorter for Ys based on [charasort](https://github.com/execfera/charasort) by execfera and a fork of the Blue Archive [charasort](https://github.com/simpelplant/charasort-bluearchive).
 
-(link goes here... soon)
+Link: https://etherealblast.github.io/charasort-ys/
 
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite
