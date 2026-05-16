@@ -767,7 +767,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Griselda",
     img: "griselda.jpg",
     opts: {
-      game: ["IV"],
+      game: ["IV", "VIII"],
       NPC: true
     }
   },
@@ -1772,6 +1772,330 @@ dataSet[dataSetVersion].characterData = [
     img: "sigroon.jpg",
     opts: {
       game: ["VII"]
+    }
+  },
+  // Ys VIII: Lacrimosa of Dana
+  {
+    name: "Laxia von Roswell",
+    img: "laxia.jpg",
+    opts: {
+      game: ["VIII"]
+    }
+  },
+  {
+    name: "Sahad Nautilus",
+    img: "sahad.jpg",
+    opts: {
+      game: ["VIII"]
+    }
+  },
+  {
+    name: "Hummel Trabaldo",
+    img: "hummel.jpg",
+    opts: {
+      game: ["VIII"]
+    }
+  },
+  {
+    name: "Ricotta Beldine",
+    img: "ricotta.jpg",
+    opts: {
+      game: ["VIII"]
+    }
+  },
+  {
+    name: "Dana Iclucia",
+    img: "dana.jpg",
+    opts: {
+      game: ["VIII"]
+    }
+  },
+  {
+    name: "Alison",
+    img: "alison.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ed",
+    img: "ed.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Alison's Child",
+    img: "alisonschild.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Kathleen",
+    img: "kathleen.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sister Nia",
+    img: "sisternia.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Dina",
+    img: "dina.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Euron",
+    img: "euron.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Reja",
+    img: "reja.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Miralda",
+    img: "miralda.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Licht",
+    img: "licht.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Quina",
+    img: "quina.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Austin",
+    img: "austin.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Silvia",
+    img: "silvia.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Thanatos Beldine",
+    img: "thanatos.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Katthew",
+    img: "katthew.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Franz",
+    img: "franz.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sir Carlan",
+    img: "sircarlan.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Captain Barbaros",
+    img: "barbaros.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Kiergaard Weissman",
+    img: "kiergaard.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Little Paro",
+    img: "littleparo.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Shoebill",
+    img: "shoebill.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Master Kong",
+    img: "masterkong.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Olga",
+    img: "olga.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Sarai",
+    img: "sarai.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Rastell",
+    img: "rastell.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Io",
+    img: "io.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Hydra",
+    img: "hydra.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Minos",
+    img: "minos.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Nestor",
+    img: "nestor.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Ura",
+    img: "ura.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Earth Goddess Maia",
+    img: "maia.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Avalodragil",
+    img: "avalodragil.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Oceanus",
+    img: "oceanus.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Theos de Endrogram",
+    img: "theos.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  {
+    name: "Origin of Life",
+    img: "originoflife.jpg",
+    opts: {
+      game: ["VIII"],
+      NPC: true
+    }
+  },
+  // Ys IX: Monstrum Nox
+  {
+    name: "Origin of Life",
+    img: "originoflife.jpg",
+    opts: {
+      game: ["IX"]
     }
   },
 ];
