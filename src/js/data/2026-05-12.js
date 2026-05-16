@@ -2655,7 +2655,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Astrid ZayrenUlvar",
+    name: "Astrid Zayren",
     img: "astrid.jpg",
     opts: {
       game: ["X"],
