@@ -424,7 +424,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Guido",
-    img: "flair.jpg",
+    img: "guido.jpg",
     opts: {
       game: ["II"],
       NPC: true
