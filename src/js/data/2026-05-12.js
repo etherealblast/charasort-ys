@@ -2700,7 +2700,6 @@ dataSet[dataSetVersion].characterData = [
     img: "abel.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2709,7 +2708,6 @@ dataSet[dataSetVersion].characterData = [
     img: "reonea.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2718,7 +2716,6 @@ dataSet[dataSetVersion].characterData = [
     img: "sirius.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2727,7 +2724,6 @@ dataSet[dataSetVersion].characterData = [
     img: "sieghart.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2736,7 +2732,6 @@ dataSet[dataSetVersion].characterData = [
     img: "lizelkarna.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2745,7 +2740,6 @@ dataSet[dataSetVersion].characterData = [
     img: "lynus.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2754,7 +2748,6 @@ dataSet[dataSetVersion].characterData = [
     img: "wauren.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2772,7 +2765,6 @@ dataSet[dataSetVersion].characterData = [
     img: "batiste.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2781,7 +2773,6 @@ dataSet[dataSetVersion].characterData = [
     img: "carlastrategy.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2790,7 +2781,6 @@ dataSet[dataSetVersion].characterData = [
     img: "ashleystrategy.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2799,7 +2789,6 @@ dataSet[dataSetVersion].characterData = [
     img: "said.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2808,7 +2797,6 @@ dataSet[dataSetVersion].characterData = [
     img: "tigres.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2817,7 +2805,6 @@ dataSet[dataSetVersion].characterData = [
     img: "ladia.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2826,7 +2813,6 @@ dataSet[dataSetVersion].characterData = [
     img: "ricardostrategy.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2835,7 +2821,6 @@ dataSet[dataSetVersion].characterData = [
     img: "lavinia.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2844,7 +2829,6 @@ dataSet[dataSetVersion].characterData = [
     img: "velnar.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2853,7 +2837,6 @@ dataSet[dataSetVersion].characterData = [
     img: "cliff.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2862,7 +2845,6 @@ dataSet[dataSetVersion].characterData = [
     img: "taurus.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2871,7 +2853,6 @@ dataSet[dataSetVersion].characterData = [
     img: "salyc.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2880,7 +2861,6 @@ dataSet[dataSetVersion].characterData = [
     img: "nepharsia.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2889,7 +2869,6 @@ dataSet[dataSetVersion].characterData = [
     img: "ezal.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2898,7 +2877,6 @@ dataSet[dataSetVersion].characterData = [
     img: "edelbard.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2907,7 +2885,6 @@ dataSet[dataSetVersion].characterData = [
     img: "alyes.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2916,7 +2893,6 @@ dataSet[dataSetVersion].characterData = [
     img: "yuri.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2925,7 +2901,6 @@ dataSet[dataSetVersion].characterData = [
     img: "tio.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2934,7 +2909,6 @@ dataSet[dataSetVersion].characterData = [
     img: "lydiastrategy.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2943,7 +2917,6 @@ dataSet[dataSetVersion].characterData = [
     img: "juliana.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2952,7 +2925,6 @@ dataSet[dataSetVersion].characterData = [
     img: "falbrav.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2961,7 +2933,6 @@ dataSet[dataSetVersion].characterData = [
     img: "subir.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2970,7 +2941,6 @@ dataSet[dataSetVersion].characterData = [
     img: "catharsis.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2979,7 +2949,6 @@ dataSet[dataSetVersion].characterData = [
     img: "zagi.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2988,7 +2957,6 @@ dataSet[dataSetVersion].characterData = [
     img: "rimis.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -2997,7 +2965,6 @@ dataSet[dataSetVersion].characterData = [
     img: "lebar.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -3006,7 +2973,6 @@ dataSet[dataSetVersion].characterData = [
     img: "zem.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -3015,7 +2981,6 @@ dataSet[dataSetVersion].characterData = [
     img: "filan.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -3024,7 +2989,6 @@ dataSet[dataSetVersion].characterData = [
     img: "noad.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -3033,7 +2997,6 @@ dataSet[dataSetVersion].characterData = [
     img: "geze.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
@@ -3042,7 +3005,6 @@ dataSet[dataSetVersion].characterData = [
     img: "calis.jpg",
     opts: {
       game: ["Strategy"],
-      NPC: true,
       noncanon: true
     }
   },
