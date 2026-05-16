@@ -2239,14 +2239,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Belger",
-    img: "belger.jpg",
-    opts: {
-      game: ["IX"],
-      NPC: true
-    }
-  },
-  {
     name: "Ingrid Celda",
     img: "ingrid.jpg",
     opts: {
