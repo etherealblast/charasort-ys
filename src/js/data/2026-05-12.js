@@ -2694,5 +2694,366 @@ dataSet[dataSetVersion].characterData = [
       NPC: true
     }
   },
+  // Ys Strategy
+  {
+    name: "Abel Renford",
+    img: "abel.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Reonea",
+    img: "reonea.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Sirius",
+    img: "sirius.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Sieghart",
+    img: "sieghart.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lizel-karna",
+    img: "lizelkarna.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lynus",
+    img: "lynus.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Wauren",
+    img: "wauren.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Romun Emperor (Strategy)",
+    img: "romunemperor.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Batiste",
+    img: "batiste.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Carla",
+    img: "carlastrategy.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Ashley",
+    img: "ashleystrategy.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Said",
+    img: "said.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Tigres",
+    img: "tigres.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Ladia",
+    img: "ladia.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Ricardo (Strategy)",
+    img: "ricardostrategy.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lavinia",
+    img: "lavinia.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Velnar",
+    img: "velnar.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Cliff",
+    img: "cliff.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Taurus",
+    img: "taurus.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Salyc",
+    img: "salyc.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Nepharsia",
+    img: "nepharsia.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Ezal",
+    img: "ezal.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Edelbard",
+    img: "edelbard.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Alyes",
+    img: "alyes.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Yuri",
+    img: "yuri.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Tio",
+    img: "tio.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lydia (Strategy)",
+    img: "lydiastrategy.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Juliana",
+    img: "juliana.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Falbrav",
+    img: "falbrav.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Subir",
+    img: "subir.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Catharsis",
+    img: "catharsis.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Zagi",
+    img: "zagi.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Rimis",
+    img: "rimis.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Lebar",
+    img: "lebar.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Zem",
+    img: "zem.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Filan",
+    img: "filan.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Noad",
+    img: "noad.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Geze",
+    img: "geze.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Calis",
+    img: "calis.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
+  {
+    name: "Ildivise",
+    img: "ildivise.jpg",
+    opts: {
+      game: ["Strategy"],
+      NPC: true,
+      noncanon: true
+    }
+  },
 ];
 	
