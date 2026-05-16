@@ -2271,6 +2271,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Melissa Rijndael",
+    img: "melissa.jpg",
+    opts: {
+      game: ["IX"],
+      NPC: true
+    }
+  },
+  {
     name: "Marc",
     img: "marc.jpg",
     opts: {
